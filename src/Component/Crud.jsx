@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-// import './Style.css'
 const Crud = () => {
     const [isFormOpen, setIsFormOpen] = useState(false);
 
